@@ -1,0 +1,1 @@
+This shred encapsulates the User Registration functionality within a Spring Boot application, following Hexagonal Architecture principles. It includes the registration endpoint, domain logic for user creation, and persistence logic to store user information in a Postgres database. The application la
