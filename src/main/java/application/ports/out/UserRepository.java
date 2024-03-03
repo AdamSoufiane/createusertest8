@@ -1,0 +1,1 @@
+The code provided for the UserRepository interface and User entity seems to be correctly following the hexagonal architecture principles and does not require any modifications. The method signatures are correctly defined, and the custom exceptions are used appropriately.

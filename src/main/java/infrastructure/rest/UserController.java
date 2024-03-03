@@ -1,0 +1,1 @@
+Full code with the recommended updates for the component
